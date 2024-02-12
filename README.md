@@ -1,4 +1,4 @@
-# CC++ Algorithms
+# C++ Algorithms
 C and C++ basic algorithms 
 - Bubble sort
 - Insertion sort
